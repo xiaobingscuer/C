@@ -2,6 +2,7 @@
 /*
 	《算法竞赛入门经典 2》第七章例 7-4. 
 	问题：素数环 
+	回溯 
 */
 #include <iostream>
 #include <algorithm>
